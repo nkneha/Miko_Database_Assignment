@@ -1,0 +1,8 @@
+CREATE TABLE Employee
+CREATE TABLE EMPLOYEE(ID INTEGER,NAME STRING)
+CREATE TABLE STUDENT(ID int,NAME string) 
+CREATE TABLE Student(ID int,NAME String)
+CREATE TABLE table_name (col1 INTEGER,col2 STRING)
+Student,ID Integer,Name String
+Employee,col1 Integer,col2 String
+Emp,emp_id Integer,emp_name String
